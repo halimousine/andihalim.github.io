@@ -1,27 +1,22 @@
-# Minimal Mistakes remote theme starter
+# Data Scientist
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+#### Technical Skills: Python, SQL, Snowflake, Postgres
+## Education			        		
+- B.A., Data Science | University of California, Berkeley (_December 2022_)
 
-Contains basic configuration to get you a site with:
+## Work Experience
+**Data Scientist @ Citian (_April 2023 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Projects
+### 412Connect
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Built and deployed a responsive web app (https://www.412connect.org) using Django, SQLite, HTML, Bootstrap CSS and Javascript that offered guided online activities for university students to explore Black-owned businesses in Pittsburgh.
 
----
+Conducted a soft launch with 160+ active users and automated a business report to show interaction statistics, including an average of 5% jump in social media presence.
 
-## Troubleshooting
+[Product Website](https://412connect.org/)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## Talks & Lectures
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- [Data Science Blog](https://andihalim.medium.com/)
